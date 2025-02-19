@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://images.pexels.com/photos/1213447/pexels-photo-1213447.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;    
+}
+.container{
+    background-color: rgba(139, 129, 36, 0.384);
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+}
+.heading{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.block{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    gap: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
