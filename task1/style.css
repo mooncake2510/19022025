@@ -1,12 +1,14 @@
-.container{
-    display: flex;
+.container {
     background-color: blanchedalmond;
+    display: flex;
     justify-content: center;
     align-items: center;
     height: 10vh;
     justify-content: space-between;
 }
-.block ul{
+
+.block ul {
+    justify-content: center;
     display: flex;
     gap: 20px;
     list-style-type: none;
