@@ -17,11 +17,17 @@ body{
     list-style-type: none;
     display: flex;
     gap: 60px;
+    color: rgb(59, 27, 3);
 }
 .heading{
 color: rgb(59, 27, 3);
 }
 .para1{
+    color: rgb(59, 27, 3);
+    text-align: left;
+    margin: 0px;
+}
+.para2{
     color: rgb(59, 27, 3);
     text-align: left;
     margin: 0px;
